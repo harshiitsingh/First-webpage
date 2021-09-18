@@ -80,7 +80,7 @@
     width: 100%;
     text-align: center;
     padding: 35px 0;
-    float: left;
+    /*float: left;*/
 }
 
 .content-title h2{
@@ -106,14 +106,14 @@ p.content-desc{
     width: 60%;
     margin-left: 20%;
     display: inline-block;
-    float: left;
+    /*float: left;*/
     font-family: Myriad Pro;
 }
 
 .skill-section{
     display: inline-block;
     width: 100%;
-    float: left;
+   /* float: left;*/
     padding: 45px 0;
 }
 .skill-image{
@@ -122,6 +122,7 @@ p.content-desc{
 }
 .skill-image img{
     width: 100%;
+    
 }
 .skill-content{
     width: 45%;
@@ -150,7 +151,7 @@ h3.skill-title{
     margin-top: 5px;
     border: 1px solid #9aabcf;
     display: inline-block;
-    float: left;
+    /*float: left;*/
 }
 .skills span abbr{
     width: 70%;
@@ -170,7 +171,7 @@ h3.skill-title{
 
 .about-content,.desk-image{
     width: 100%;
-    float: left;
+    /*float: left;*/
     display: inline-block;
     font-family: Myriad Pro;
     color: #9aabcf;
@@ -178,7 +179,7 @@ h3.skill-title{
 }
 .about-desc{
     width: 50%;
-    float: left;
+    /*float: left;*/
     display: inline-block;
 }
 .about-desc p{
@@ -188,7 +189,7 @@ h3.skill-title{
 
 .about-image{
     width: 45%;
-    float: right;
+    /*float: right;*/
     display: inline-block;
 }
 
